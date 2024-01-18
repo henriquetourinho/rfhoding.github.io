@@ -143,7 +143,7 @@ input[type="submit"]:hover {
     
     <a href="http://hospedadados.com/" target="_blank"><img src="/media/empresas/02.png" alt="Hospeda Dados"></a>
     
-    <a href="https://diretoriowordpress.com" target="_blank"><img src="/media/empresas/03.png" alt="Diretório Wordpress"></a>
+    <a href="https://diretoriowp.com.br" target="_blank"><img src="/media/empresas/03.png" alt="Diretório Wordpress"></a>
   </div>
 
 
@@ -172,7 +172,7 @@ input[type="submit"]:hover {
     </li>
    
     <li>
-      <img style=" border-radius: 50%;width: 100px; height: 100px;"src="/media/lucas.png"  alt="LUCAS JENDICK">
+      <img style=" border-radius: 50%;width: 100px; height: 100px;"src="/media/colaboradores/lucas.png"  alt="LUCAS JENDICK">
       <h3>LUCAS JENDICK</h3>
       <p>Gerente de Produtos</p>
     </li>
